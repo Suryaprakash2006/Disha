@@ -46,7 +46,7 @@ export default function Login() {
           {loading ? 'Logging in...' : 'Log in'}
         </button>
         <p className="text-xs text-slate-400 text-center">
-          Demo user: demo.user@disha.gov.in / Demo@12345
+          Demo user: demo@example.com / Demo@12345
         </p>
       </form>
       <p className="text-center text-sm text-slate-500 mt-4">
